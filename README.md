@@ -1,9 +1,9 @@
-# 📚 Fabroa Library Management System
+# 📚 Bejiga Library Management System
 
 A modern, beautiful library management system built with Django.
 
-**Student:** Holy Marie S. Fabroa  
-**Course:** IT3RT  
+**Student:** Reven C. Bejiga
+**Course:** IT3R7 
 **Date:** February 8, 2024
 
 ---
@@ -101,6 +101,6 @@ Each entity supports full CRUD:
 
 ## 👨‍💻 Author
 
-**Holy Marie S. Fabroa**  
-IT3RT Student  
-February 2024
+**Reven C. Bejiga**  
+IT3R7 Student  
+February 8 2024
